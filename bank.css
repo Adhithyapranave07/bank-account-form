@@ -1,0 +1,46 @@
+h1{
+    text-align: center;
+}
+
+#main{
+    margin: 150px 450px;
+    background-color: white;
+    padding: 20px;
+}
+body{
+    background-color: antiquewhite;
+}
+#fname{
+    width: 90%;
+}
+#lname{
+    width: 90%;
+}
+#Email{
+    width: 90%;
+}
+#pin{
+    width: 25px;
+}
+#an{
+    width: 20px;
+}
+#pass{
+    width: 90%;
+}
+#adr{
+    padding-bottom: 100px;
+    width: 90%;
+}
+#cp{
+    width: 95%;
+    height: 20px;
+}
+#re{
+
+   background-color: green;
+   text-align: center;
+}
+#br{
+    border: 1px solid grey;
+}
